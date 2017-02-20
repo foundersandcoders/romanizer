@@ -16,7 +16,7 @@ The Romans wrote their numbers using letters:
 
 We would like to be able to convert Arabic numbers into their Roman numeral equivalents.   
 
-# Defining the tool
+# Defining the tools
 
 ### Test Driven Development
 
