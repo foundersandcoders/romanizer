@@ -4,7 +4,7 @@ Using Test Droven Development to solve Roman Numerals Kata
 
 # Defining the problem
 
-The Romans wrote their numbers using letters; 
+The Romans wrote their numbers using letters: 
 
 - 'I' meaning '1',
 - 'V' meaning '5', 
@@ -12,13 +12,22 @@ The Romans wrote their numbers using letters;
 - 'L' meaning '50',
 - 'C' meaning '100', 
 - 'D' meaning '500',
-- and 'M' meaning '1000'.
+- 'M' meaning '1000'.
 
 We would like to be able to convert Arabic numbers into their Roman numeral equivalents.   
 
 # Defining the tool
 
-TTD !!!
+## TTD !!!
+
+## Ping pong programming
+
+1. Person A writes a new test and sees that it fails.
+2. Person B implements the code needed to pass the test.
+3. Person B writes the next test and sees that it fails.
+4. Person A implements the code needed to pass the test.
+
+And so on. Refactoring is done whenever the need arises by whoever is driving.
 
 # Let’s get started!
 
@@ -26,7 +35,7 @@ TTD !!!
 
 Clone the repository by copy-pasting the following command into your terminal:
 
-git clone https://github.com/skibinska/fizzbuzz.git && cd fizzbuzz
+git clone https://github.com/skibinska/romanizer.git && cd romanizer
 
 2. Go to test/tests.js
 
