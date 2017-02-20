@@ -43,5 +43,7 @@ Clone the repository by copy-pasting the following command into your terminal:
 
 ### 2. Go to test/tests.js
 
+and let’s code :)
+
 
 
