@@ -18,11 +18,11 @@ We would like to be able to convert Arabic numbers into their Roman numeral equi
 
 # Defining the tool
 
-## TTD !!!
+### Test Driven Development
 
 ![TTD lifecycle](https://cloud.githubusercontent.com/assets/10700103/23134527/09fabe52-f78d-11e6-90d8-b747714a52f6.png)
 
-## Ping pong programming
+### Ping pong programming
 
 1. Person A writes a new test and sees that it fails.
 2. Person B implements the code needed to pass the test.
