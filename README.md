@@ -35,7 +35,9 @@ And so on. Refactoring is done whenever the need arises by whoever is driving.
 
 Clone the repository by copy-pasting the following command into your terminal:
 
+```
 git clone https://github.com/skibinska/romanizer.git && cd romanizer
+```
 
 2. Go to test/tests.js
 
