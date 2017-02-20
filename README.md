@@ -1,6 +1,6 @@
 # Roman Numerals Kata 
 
-Using Test Droven Development to solve Roman Numerals Kata
+Using Test Driven Development to solve Roman Numerals Kata
 
 # Defining the problem
 
