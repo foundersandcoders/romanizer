@@ -6,13 +6,13 @@ Using Test Driven Development to solve Roman Numerals Kata
 
 The Romans wrote their numbers using letters: 
 
-- 'I' meaning '1',
-- 'V' meaning '5', 
-- 'X' meaning '10',
-- 'L' meaning '50',
-- 'C' meaning '100', 
-- 'D' meaning '500',
-- 'M' meaning '1000'.
+- **I** meaning **1**,
+- **V** meaning **5**, 
+- **X** meaning **10**,
+- **L** meaning **50**,
+- **C** meaning **100**, 
+- **D** meaning **500**,
+- **M** meaning **1000**.
 
 We would like to be able to convert Arabic numbers into their Roman numeral equivalents.   
 
