@@ -20,7 +20,7 @@ We would like to be able to convert Arabic numbers into their Roman numeral equi
 
 ## TTD !!!
 
-https://cloud.githubusercontent.com/assets/10700103/23134527/09fabe52-f78d-11e6-90d8-b747714a52f6.png
+![TTD lifecycle](https://cloud.githubusercontent.com/assets/10700103/23134527/09fabe52-f78d-11e6-90d8-b747714a52f6.png)
 
 ## Ping pong programming
 
