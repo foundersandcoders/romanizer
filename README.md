@@ -14,7 +14,7 @@ The Romans wrote their numbers using letters:
 - **D** meaning **500**,
 - **M** meaning **1000**.
 
-We would like to be able to convert Arabic numbers into their Roman numeral equivalents.   
+We would like to be able to convert numbers into their Roman numeral equivalents.   
 
 # Defining the tools
 
