@@ -20,11 +20,11 @@ We would like to be able to convert numbers into their Roman numeral equivalents
 
 The rules of TDD:
 
-1. Write a failing test
-2. Write the simplest bit of code that makes it pass
-3. Refactor the code to follow the rules of simple design
+1. Write a failing test.
+2. Write the simplest bit of code that makes it pass.
+3. Refactor the code to follow the rules of simple design.
 
-This is also called the Red-Green-Refactor cycle of TDD.
+This is also called the **Red-Green-Refactor cycle of TDD**.
 
 ![TTD lifecycle](https://cloud.githubusercontent.com/assets/10700103/23134527/09fabe52-f78d-11e6-90d8-b747714a52f6.png)
 
