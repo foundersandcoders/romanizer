@@ -18,14 +18,15 @@ We would like to be able to convert numbers into their Roman numeral equivalents
 
 ### Test Driven Development
 
+The rules of TDD:
+
+1. Write a failing test
+2. Write the simplest bit of code that makes it pass
+3. Refactor the code to follow the rules of simple design
+
+This is also called the Red-Green-Refactor cycle of TDD.
+
 ![TTD lifecycle](https://cloud.githubusercontent.com/assets/10700103/23134527/09fabe52-f78d-11e6-90d8-b747714a52f6.png)
-
-**Test-driven development (TDD)** is basically a methodology or a software development process that is based on the **repetition** of the following tasks:
-
-- write a simple test that defines an expected functionality/outcome
-- make the test fail (it will fail as we haven’t written any code just yet!)
-- write your code as simple as possible to make your test pass
-- refactor your code and run the same test again (it should pass as even though is refactored the functionality should be the same).
 
 > The key concept is to write your **unit test before** you write a line of implementation **code**.
 
