@@ -1,3 +1,5 @@
+'use strict';
+
 var Romanizer = {
   arabic: [100, 90, 50, 40, 10, 9, 5, 4, 1],
   roman:  ['C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I']
