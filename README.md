@@ -2,7 +2,7 @@
 
 Using Test Driven Development to solve Roman Numerals Kata
 
-# Defining the problem
+## Defining the problem
 
 The Romans wrote their numbers using letters: 
 
@@ -14,7 +14,7 @@ The Romans wrote their numbers using letters:
 
 We would like to be able to convert numbers into their Roman numeral equivalents.   
 
-# Defining the tools
+## Defining the tools
 
 ### Test Driven Development
 
@@ -39,7 +39,7 @@ This is also called the **Red-Green-Refactor cycle of TDD**.
 
 And so on. Refactoring is done whenever the need arises by whoever is driving.
 
-# Let’s get started!
+## Let’s get started!
 
 ### 1. Clone
 
