@@ -53,5 +53,9 @@ Clone the repository by copy-pasting the following command into your terminal:
 
 and let’s code :)
 
+## Solution
+
+To see my solution checkout the `solution` branch.
+
 
 
