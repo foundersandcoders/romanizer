@@ -55,7 +55,7 @@ and let’s code :)
 
 ## Solution
 
-To see my solution checkout the `solution` branch.
+To see the solution checkout the `solution` branch.
 
 
 
