@@ -2,7 +2,6 @@
 **Maintainer**: [@skibinska](https://github.com/skibinska)
 
 # Roman Numerals Kata
->>>>>>> master
 
 Using Test Driven Development to solve Roman Numerals Kata
 
