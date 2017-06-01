@@ -1,13 +1,16 @@
-# Roman Numerals Kata 
+**Author**: [@skibinska](https://github.com/skibinska)  
+**Maintainer**: [@skibinska](https://github.com/skibinska)
+
+# Roman Numerals Kata
 
 Using Test Driven Development to solve Roman Numerals Kata
 
 ## Defining the problem
 
-The Romans wrote their numbers using letters: 
+The Romans wrote their numbers using letters:
 
 - **I** meaning **1**,
-- **V** meaning **5**, 
+- **V** meaning **5**,
 - **X** meaning **10**,
 - **L** meaning **50**,
 - **C** meaning **100**.
@@ -56,6 +59,3 @@ and let’s code :)
 ## Solution
 
 To see the solution checkout the `solution` branch.
-
-
-
