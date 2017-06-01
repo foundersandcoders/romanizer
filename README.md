@@ -1,3 +1,6 @@
+Author: @skibinska  
+Maintainer: @skibinska
+
 # Roman Numerals Kata 
 
 Using Test Driven Development to solve Roman Numerals Kata
